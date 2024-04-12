@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Dedicated Backend Developer | Crafting Software Solutions for Diverse Needs
+                                Dedicated Backend Developer | Crafting Software Solutions for Diverse Needs
 
 👨🏻‍💻 I am a dedicated professional with expertise in backend development. I excel at understanding product requirements and crafting software solutions to meet diverse needs.
 
