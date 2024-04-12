@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Deepthamaalolan/Deepthamaalolan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dedicated Backend Developer | Crafting Software Solutions for Diverse Needs
 
-Here are some ideas to get you started:
+👨🏻‍💻 I am a dedicated professional with expertise in backend development. I excel at understanding product requirements and crafting software solutions to meet diverse needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 With two years of experience as a Software Developer and currently a Software Engineer Intern, I bring a wealth of practical knowledge to the table.
+
+🚀 Passionate about working with cutting-edge technologies.
+
+🌐 Open to new opportunities, I am enthusiastic about exploring the world of software engineering and taking on exciting challenges.
+
+⚒️ My skillset includes:
+1. Programming: Python, NodeJs, Typescript, Javascript, HTML, C/C++, CSS, Java, React
+2. Database: MongoDB, MySQL, Redis, Snowflake, VectorDB, PostgreSQL, SQLite
+3. Libraries/Framework: Express, REST API, OpenAI, NestJS, Django, JSON, Docker, Git
+4. Operating System: Linux, Windows, iOS
+5. Cloud Services: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)
