@@ -1,5 +1,9 @@
 # 💫 About Me:
-👨🏻‍💻 I am a dedicated professional with expertise in backend development. I excel at understanding product requirements and crafting software solutions to meet diverse needs.<br><br>💼 With three years of experience as a Software Developer, I bring a wealth of practical knowledge to the table.<br><br>🚀 Passionate about working with cutting-edge technologies.<br><br>🌐 Open to new opportunities, I am enthusiastic about exploring the world of software engineering and taking on exciting challenges.<br><br>⚒️
+
+🚀 Innovator • Problem Solver • Quick Learner
+👨🏻‍💻 I'm a dedicated Software Engineer with three years of experience in backend development. I excel at understanding product requirements and crafting tailored software solutions.
+💼 With a solid background in building scalable applications and working with cutting-edge technologies, I bring practical knowledge and a passion for continuous learning to every project.
+🌐 Enthusiastic about exploring new opportunities and tackling exciting challenges in the world of software engineering.
 
 
 ## 🌐 Socials:
