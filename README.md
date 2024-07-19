@@ -1,7 +1,7 @@
 # 💫 About Me:
-🚀 Innovator • Problem Solver • Quick Learner<br><br>👨🏻‍💻 I'm a dedicated Software Engineer with three years of experience in backend development. I excel at understanding product requirements and crafting tailored software solutions.<br><br>💼 With a solid background in building scalable applications and working with cutting-edge technologies, I bring practical knowledge and a passion for continuous learning to every project.<br><br>🌟 Enthusiastic about exploring new opportunities and tackling exciting challenges in the world of software engineering.
+🚀 Innovator | Problem Solver | Quick Learner<br><br>👨🏻‍💻 I'm a dedicated Software Engineer with three years of experience in backend development. I excel at understanding product requirements and crafting tailored software solutions.<br><br>💼 With a solid background in building scalable applications and working with cutting-edge technologies, I bring practical knowledge and a passion for continuous learning to every project.<br><br>🌟 Enthusiastic about exploring new opportunities and tackling exciting challenges in the world of software engineering.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deeptha-maalolan/) 
 
 # 💻 Tech Stack:
